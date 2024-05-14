@@ -1,0 +1,4 @@
+{"level":"info","log_string":"Incoming request on /api/notification/send","metadata":{"source":"apinotificationsend.log"},"timestamp":"2024-05-14T08:02:38.381Z"}
+{"level":"info","log_string":"Incoming request on /api/user/register","metadata":{"source":"apiuserregister.log"},"timestamp":"2024-05-14T08:05:19.895Z"}
+{"level":"info","message":{"level":"info","log_string":"User registered: undefined","metadata":{"source":"userRegister.log"},"timestamp":"2024-05-14T08:05:19.898Z"}}
+{"level":"info","log_string":"Incoming request on /api/data/submit","metadata":{"source":"apidatasubmit.log"},"timestamp":"2024-05-14T08:06:06.210Z"}
